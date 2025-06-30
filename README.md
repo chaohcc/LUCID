@@ -13,8 +13,10 @@ There are some examples in [main.cpp]. e.g., -- test_merge_threshold: test LUCID
 
 You can run this project on your own dataset by modifying the filepath in [main.cpp]. Your dataset should be formatted either as a binary file or as a text file (with one key per line). The datasets used in our paper are from [SOSD], [GRE], and [TLI].
 
-[SOSD] 1) Andreas Kipf and Ryan Marcus and Alexander van Renenr and others. SOSD: A Benchmark for Learned Indexes. MLSys@NeurIPS2019. 2) Ryan Marcus and Andreas Kipf and Alexander van Renen and others. Benchmarking Learned Indexes. VLDB 2020
+[SOSD] 1) Andreas Kipf and Ryan Marcus and Alexander van Renenr and others. SOSD: A Benchmark for Learned Indexes. MLSys@NeurIPS2019. 2) Ryan Marcus and Andreas Kipf and Alexander van Renen and others. Benchmarking Learned Indexes. VLDB 2020.
+
 [GRE] Wongkham, Chaichon, Baotong Lu, Chris Liu, Zhicong Zhong, Eric Lo, and Tianzheng Wang. “Are Updatable Learned Indexes Ready?,” VLDB 2022.
+
 [TLI] Sun, Zhaoyan, Xuanhe Zhou, and Guoliang Li. “Learned Index: A Comprehensive Experimental Evaluation.” VLDB 2023.
 
 
