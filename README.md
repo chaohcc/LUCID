@@ -32,9 +32,30 @@ lognormal | Values generated according to a lognormal distribution, multiply $10
 ---
 [SOSD] 1) Andreas Kipf and Ryan Marcus and Alexander van Renenr and others. SOSD: A Benchmark for Learned Indexes. MLSys@NeurIPS2019. 2) Ryan Marcus and Andreas Kipf and Alexander van Renen and others. Benchmarking Learned Indexes. VLDB 2020.
 
+
+
+### References
+[GRE] Chaichon Wongkham, Baotong Lu, Chris Liu, Zhicong Zhong, Eric Lo, and Tianzheng Wang. Are Updatable Learned Indexes Ready? . PVLDB,15(11): 3004 - 3017, 2022.
+
 [GRE] Wongkham, Chaichon, Baotong Lu, Chris Liu, Zhicong Zhong, Eric Lo, and Tianzheng Wang. “Are Updatable Learned Indexes Ready?,” VLDB 2022.
 
 [TLI] Sun, Zhaoyan, Xuanhe Zhou, and Guoliang Li. “Learned Index: A Comprehensive Experimental Evaluation.” VLDB 2023.
+
+[SOSD] 1) Andreas Kipf and Ryan Marcus and Alexander van Renenr and others. SOSD: A Benchmark for Learned Indexes. MLSys@NeurIPS2019. 2) Ryan Marcus and Andreas Kipf and Alexander van Renen and others. Benchmarking Learned Indexes. VLDB 2020.
+
+[SNAM] Christian E Lopez and Caleb Gallemore. 2021. An augmented multilingual Twitter dataset for studying the COVID-19 infodemic. Social Network Analysis and Mining 11, 1 (2021), 1–14.
+
+[Cell] Suhas S.P. Rao and et al. 2014. A 3D Map of the Human Genome at Kilobase Resolution Reveals Principles of Chromatin Looping. Cell (2014).
+
+[Stackoverflow] Stackoverflow. 2021. Vote ID. (2021). https://archive.org/download/stackexchange.
+
+[Aj] Edward L Wright, Peter RM Eisenhardt, Amy K Mainzer, Michael E Ressler, Roc M Cutri, Thomas Jarrett, J Davy Kirkpatrick, Deborah Padgett, Robert S McMillan, Michael Skrutskie, et al. 2010. The Wide-field Infrared Survey Explore (WISE): mission description and initial on-orbit performance. The Astronomical Journal 140, 6 (2010), 1868.
+
+[Libraries.io.] Libraries.io. 2017. Repository ID. (2017). https://libraries.io/data. 
+
+[OpenStreetMap] Google Cloud. 2017. OpenStreetMap. (2017). https://console.cloud.google.com/marketplace/details/openstreetmap/geo-openstreetmap
+
+[ALEX] Jialin Ding, Umar Farooq Minhas, Jia Yu, Chi Wang, Jaeyoung Do, Yinan Li,Hantian Zhang, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, et al. 2020. ALEX: an updatable adaptive learned index. Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data, 969–984.
 
 
 
