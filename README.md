@@ -49,7 +49,7 @@ lognormal | Values generated according to a lognormal distribution, multiply $10
 
 [Stackoverflow] Stackoverflow. 2021. Vote ID. (2021). https://archive.org/download/stackexchange.
 
-[Aj] Edward L Wright, Peter RM Eisenhardt, Amy K Mainzer, Michael E Ressler, Roc M Cutri, Thomas Jarrett, J Davy Kirkpatrick, Deborah Padgett, Robert S McMillan, Michael Skrutskie, et al. 2010. The Wide-field Infrared Survey Explore (WISE): mission description and initial on-orbit performance. The Astronomical Journal 140, 6 (2010), 1868.
+[AJ] Edward L Wright, Peter RM Eisenhardt, Amy K Mainzer, Michael E Ressler, Roc M Cutri, Thomas Jarrett, J Davy Kirkpatrick, Deborah Padgett, Robert S McMillan, Michael Skrutskie, et al. 2010. The Wide-field Infrared Survey Explore (WISE): mission description and initial on-orbit performance. The Astronomical Journal 140, 6 (2010), 1868.
 
 [Libraries.io.] Libraries.io. 2017. Repository ID. (2017). https://libraries.io/data. 
 
