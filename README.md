@@ -11,8 +11,25 @@ There are some examples in [main.cpp]. e.g., -- test_merge_threshold: test LUCID
 
 ## Dataset 
 
-You can run this project on your own dataset by modifying the filepath in [main.cpp]. Your dataset should be formatted either as a binary file or as a text file (with one key per line). The datasets used in our paper are from [SOSD], [GRE], and [TLI].
+You can run this project on your own dataset by modifying the filepath in [main.cpp]. Your dataset should be formatted either as a binary file or as a text file (with one key per line). The datasets used in our paper are from [SOSD], [GRE], and [TLI]. Table 1 shows the details of datasets. 
 
+#### <center>Tabel 1:  dataset description</center>
+| dataset | description | duplicate | reference |
+| :---:     |     :---:      |       :---:  |       :---:  |
+books    | Amazon book sales popularity                                                                                    | No       | SOSD      |
+fb        | Upsampled Facebook user ID                                                                                                                                 | No        |   SOSD     |
+osm       | Uniformly sampled OpenStreetMap locations                                                                                                                  | No        |   SOSD    |
+wiki      | Wikipedia article edit timestamps                                                                                                                          | Yes       |    SOSD    |
+covid     | Uniformly sampled Tweet ID with tag COVID-19                                                                                                               | No        |    SNAM   |
+genome    | Loci pairs in human chromosomes                  | No        |    Cell    |
+stack     | Vote ID from Stackoverflow                                                                                                                                 | No       |     Stackoverflow   |
+wise      | Partition key from the WISE data                                                                                                                           | No       |     AJ   |
+libio     | Repository ID from libraries.io                                                                                                                            | No        |  Libraries.io.    |
+history   | History node ID in OpenStreetMap                                                                                                                           | No        |    OpenStreetMap    |
+planet    | Planet ID in OpenStreetMap                                                                                                                                 | No        |   OpenStreetMap    |
+lognormal | Values generated according to a lognormal distribution, multiply $10^9$ and rounded down to the nearest integer | Yes       |    ALEX    | 
+
+---
 [SOSD] 1) Andreas Kipf and Ryan Marcus and Alexander van Renenr and others. SOSD: A Benchmark for Learned Indexes. MLSys@NeurIPS2019. 2) Ryan Marcus and Andreas Kipf and Alexander van Renen and others. Benchmarking Learned Indexes. VLDB 2020.
 
 [GRE] Wongkham, Chaichon, Baotong Lu, Chris Liu, Zhicong Zhong, Eric Lo, and Tianzheng Wang. “Are Updatable Learned Indexes Ready?,” VLDB 2022.
